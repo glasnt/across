@@ -2,112 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/across/docs/overview/</loc>
+    <loc>across/workshops/multiplayer/timeline/day-of-workshop/introduction/</loc>
+    <lastmod>2022-03-16T14:30:09+11:00</lastmod>
+  </url><url>
+    <loc>across/workshops/multiplayer/timeline/before-the-workshop/</loc>
+    <lastmod>2022-03-16T14:30:09+11:00</lastmod>
+  </url><url>
+    <loc>across/workshops/multiplayer/timeline/day-of-workshop/working-session-one/</loc>
+    <lastmod>2022-03-16T14:30:09+11:00</lastmod>
+  </url><url>
+    <loc>across/blog/news/</loc>
     <lastmod>2022-01-13T09:24:09+11:00</lastmod>
   </url><url>
-    <loc>/across/docs/tasks/beds/</loc>
+    <loc>across/blog/releases/</loc>
     <lastmod>2022-01-13T09:24:09+11:00</lastmod>
   </url><url>
-    <loc>/across/docs/tasks/ponycopters/configuring-ponycopters/</loc>
+    <loc>across/workshops/multiplayer/timeline/day-of-workshop/working-session-two/</loc>
+    <lastmod>2022-03-16T14:30:09+11:00</lastmod>
+  </url><url>
+    <loc>across/workshops/multiplayer/timeline/day-of-workshop/</loc>
+    <lastmod>2022-03-16T14:30:09+11:00</lastmod>
+  </url><url>
+    <loc>across/workshops/multiplayer/timeline/after-workshop/</loc>
+    <lastmod>2022-03-16T14:30:09+11:00</lastmod>
+  </url><url>
+    <loc>across/workshops/multiplayer/timeline/day-of-workshop/working-session-three/</loc>
+    <lastmod>2022-03-16T14:30:09+11:00</lastmod>
+  </url><url>
+    <loc>across/workshops/multiplayer/timeline/</loc>
+    <lastmod>2022-03-16T14:30:09+11:00</lastmod>
+  </url><url>
+    <loc>across/workshops/multiplayer/timeline/day-of-workshop/working-session-four/</loc>
+    <lastmod>2022-03-16T14:30:09+11:00</lastmod>
+  </url><url>
+    <loc>across/workshops/multiplayer/faq/</loc>
+    <lastmod>2022-03-16T14:30:09+11:00</lastmod>
+  </url><url>
+    <loc>across/workshops/multiplayer/templates/</loc>
+    <lastmod>2022-03-16T14:30:09+11:00</lastmod>
+  </url><url>
+    <loc>across/workshops/multiplayer/samples/</loc>
+    <lastmod>2022-03-16T14:30:09+11:00</lastmod>
+  </url><url>
+    <loc>across/workshops/multiplayer/timeline/day-of-workshop/retrospective/</loc>
+    <lastmod>2022-03-16T14:30:09+11:00</lastmod>
+  </url><url>
+    <loc>across/blog/2018/10/06/easy-documentation-with-docsy/</loc>
     <lastmod>2022-01-13T09:24:09+11:00</lastmod>
   </url><url>
-    <loc>/across/docs/getting-started/</loc>
+    <loc>across/blog/2018/10/06/the-second-blog-post/</loc>
     <lastmod>2022-01-13T09:24:09+11:00</lastmod>
   </url><url>
-    <loc>/across/docs/examples/</loc>
+    <loc>across/blog/2018/01/04/another-great-release/</loc>
     <lastmod>2022-01-13T09:24:09+11:00</lastmod>
   </url><url>
-    <loc>/across/docs/tasks/ponycopters/launching-ponycopters/</loc>
+    <loc>across/about/</loc>
+    <lastmod>2022-03-16T14:30:09+11:00</lastmod>
+  </url><url>
+    <loc>across/</loc>
     <lastmod>2022-01-13T09:24:09+11:00</lastmod>
   </url><url>
-    <loc>/across/docs/tutorials/multi-bear/</loc>
+    <loc>across/blog/</loc>
     <lastmod>2022-01-13T09:24:09+11:00</lastmod>
   </url><url>
-    <loc>/across/docs/tasks/porridge/</loc>
+    <loc>across/categories/</loc>
+  </url><url>
+    <loc>across/workshops/multiplayer/</loc>
+    <lastmod>2022-03-16T14:30:09+11:00</lastmod>
+  </url><url>
+    <loc>across/publications/</loc>
+    <lastmod>2022-03-16T14:30:09+11:00</lastmod>
+  </url><url>
+    <loc>across/search/</loc>
     <lastmod>2022-01-13T09:24:09+11:00</lastmod>
   </url><url>
-    <loc>/across/docs/concepts/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
+    <loc>across/workshops/singleplayer/</loc>
+    <lastmod>2022-03-16T14:30:09+11:00</lastmod>
   </url><url>
-    <loc>/across/docs/tasks/task/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
+    <loc>across/tags/</loc>
   </url><url>
-    <loc>/across/docs/tutorials/tutorial2/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/docs/tasks/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/docs/tutorials/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/docs/reference/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/docs/contribution-guidelines/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/docs/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/blog/news/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/blog/releases/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/blog/2018/10/06/easy-documentation-with-docsy/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/blog/2018/10/06/the-second-blog-post/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/blog/2018/01/04/another-great-release/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/categories/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/tags/docs/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/docs/getting-started/example-page/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/categories/examples/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/docs/reference/parameter-reference/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/tags/sample/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/tags/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/tags/test/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/docs/tasks/ponycopters/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/about/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/blog/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/categories/placeholders/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/publications/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
-  </url><url>
-    <loc>/across/search/</loc>
-    <lastmod>2022-01-13T09:24:09+11:00</lastmod>
+    <loc>across/workshops/</loc>
+    <lastmod>2022-03-16T14:30:09+11:00</lastmod>
   </url>
 </urlset>
