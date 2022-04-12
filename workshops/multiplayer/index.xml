@@ -189,9 +189,9 @@ Thank you for agreeing to be a notetaker for an ACROSS Workshop! Your recorded o
 &lt;p&gt;&lt;code&gt;rocksoft.eco/news/rockconf-2028-planning&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Help organize Rockconf 2028!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Rockconf is back again, the annual gathering of Rocksoft enthusiasts and professionals, which will be hosted in Catherine Archipelago from 24-28 May 2028!&lt;/p&gt;
-&lt;p&gt;We are looking for volunteers to help with the organization of this event! Please use [this application form] to register your interest.&lt;/p&gt;
-&lt;p&gt;Accepted volunteers will be provided with access to the event (including meals and access to all talks and workshops) (or a refund if you&amp;rsquo;ve already paid), and travel dispensation (up to 500 clams, 1000 for international travelers).&lt;/p&gt;
-&lt;p&gt;Current volunteer opportunities:&lt;/p&gt;
+&lt;p&gt;We are looking for organizers to help make this event happen! Please use [this application form] to register your interest.&lt;/p&gt;
+&lt;p&gt;Organizers will have full access to the event, and travel dispensation (up to 500 clams, 1000 for international travelers).&lt;/p&gt;
+&lt;p&gt;Current opportunities:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Program reviewers
 &lt;ul&gt;
@@ -205,7 +205,7 @@ Thank you for agreeing to be a notetaker for an ACROSS Workshop! Your recorded o
 &lt;/li&gt;
 &lt;li&gt;Volunteer coordinators:
 &lt;ul&gt;
-&lt;li&gt;As we get closer to the event, we are seeking assistance to help organise the volunteers!
+&lt;li&gt;As we get closer to the event, we are seeking assistance to help organize the volunteers!
 &lt;ul&gt;
 &lt;li&gt;Timeline: Feb 2028 - event day&lt;/li&gt;
 &lt;li&gt;Work: helping identify volunteers required, assessing application, on-site wrangling.&lt;/li&gt;
@@ -246,12 +246,12 @@ Thank you for agreeing to be a notetaker for an ACROSS Workshop! Your recorded o
 &lt;h2 id=&#34;template-contribution-guide&#34;&gt;Template Contribution Guide&lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;rocksoft.eco/contribute&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Contributing to Rocksoft&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Rocksoft is managed by Rockcorp, but welcomes contributors from everyone!&lt;/p&gt;
+&lt;p&gt;Rocksoft is managed by Rockcorp, and welcomes contributors from anyone!&lt;/p&gt;
 &lt;p&gt;For first time contributors, we&amp;rsquo;ve created this guide to help you work out where your skills can be best applied.&lt;/p&gt;
 &lt;p&gt;New Engineering:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Rocksoft uses Gitlab as source control and bug tracking. Bugs marked with &amp;ldquo;good-first-issue&amp;rdquo; are good candidates for newer contributors to assess.&lt;/li&gt;
-&lt;li&gt;Pull requests are processed through our testing system, and we use [bot name] to check for various machine-checkable fixes (linting, formatting, etc). Pull requests requires two approvals per pull request, including at least one from our [current release manager] for new features.&lt;/li&gt;
+&lt;li&gt;Pull requests are processed through our testing system, and we use [bot name] to check for various machine-checkable fixes (linting, formatting, etc). Pull requests require two approvals, including at least one from our technical advisory group for new features.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Tutorials and guides:&lt;/p&gt;
 &lt;ul&gt;
@@ -261,7 +261,7 @@ Thank you for agreeing to be a notetaker for an ACROSS Workshop! Your recorded o
 &lt;ul&gt;
 &lt;li&gt;We are always after people to try out our alpha releases of new versions of Rocksoft. If you encounter issues, please ensure you mark your version with the output of &lt;code&gt;rocksoft --info&lt;/code&gt; to help our team identify if you&amp;rsquo;re on an alpha release.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;More here!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;More here! Some of these prompts use the &amp;ldquo;We value&amp;rdquo; statements from Working Session #1!&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;template-recognition-document&#34;&gt;Template Recognition Document&lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;rocksoft.eco/news/rocksoft-v3.4-release&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Rocksoft v3.4 released&lt;/strong&gt;&lt;/p&gt;
