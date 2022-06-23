@@ -11,9 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          submodules: recursive 
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-          set-safe-directory: /src #test
+          submodules: recursive
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+          set-safe-directory: "/src"
 
       - name: hugo
         uses: klakegg/actions-hugo@1.0.0
