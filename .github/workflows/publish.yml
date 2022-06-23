@@ -13,6 +13,7 @@ jobs:
         with:
           submodules: recursive 
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          set-safe-directory: /src #test
 
       - name: hugo
         uses: klakegg/actions-hugo@1.0.0
