@@ -14,12 +14,14 @@ jobs:
           submodules: recursive
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
-      - name: debug
-        run: git config --global --add safe.directory /src
-      - name: hugo
-        uses: klakegg/actions-hugo@1.0.0
+      - name: Setup
+        uses: peaceiris/actions-hugo@v2
         with:
-          image: ext-alpine
+          hugo-version: '0.91.2'
+          extended: true
+
+      - name: Build
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
